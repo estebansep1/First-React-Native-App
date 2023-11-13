@@ -1,9 +1,9 @@
 /* eslint-disable prettier/prettier */
 /* eslint-disable react/no-unstable-nested-components */
 import React from 'react'
-import CurrentWeather from '../Screens/CurrentWeather'
-import UpcomingWeather from '../Screens/UpcomingWeather'
-import City from '../Screens/City'
+import CurrentWeather from '../Views/CurrentWeather'
+import UpcomingWeather from '../Views/UpcomingWeather'
+import City from '../Views/City'
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs'
 import { Feather } from '@expo/vector-icons'
 
